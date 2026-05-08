@@ -1,8 +1,8 @@
-OpenGL Maze Generator & Solver
+##OpenGL Maze Generator & Solver
 
 This project is a Python-based application that dynamically generates a rectangular maze and automatically finds a path from the start to the end using computer graphics.
 
-How it Works
+##How it Works
 1. Maze Generation (The "Mouse" Logic)
 The maze is created using a Depth-First Search (DFS) algorithm.
 
