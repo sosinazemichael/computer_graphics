@@ -1,4 +1,5 @@
 OpenGL Maze Generator & Solver
+
 This project is a Python-based application that dynamically generates a rectangular maze and automatically finds a path from the start to the end using computer graphics.
 
 How it Works
