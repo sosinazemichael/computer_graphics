@@ -163,6 +163,7 @@ def solve_step():
         dead_ends.add((r, c))
 
 # --- MAIN DISPLAY AND UPDATE LOOP ---
+# Phase 4: Final Bonus - Cycle creation and interior start/end points
 def display():
     glClear(GL_COLOR_BUFFER_BIT)
     draw_maze()
