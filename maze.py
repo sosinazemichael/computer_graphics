@@ -91,6 +91,7 @@ def draw_entities():
     glEnd()
 
 # --- MAZE GENERATION ALGORITHM (DFS) ---
+# Phase 2: Implementing DFS-based maze generation
 def generate_step():
     global current_cell, generating, solving
     r, c = current_cell
