@@ -139,6 +139,7 @@ def move_forward(r, c, d):
     elif d == 3: return (r, c - 1)
 
 # --- BACKTRACKING SOLVER ALGORITHM ---
+# Phase 3: Backtracking Solver with Wall-Follower Logic
 def solve_step():
     global mouse_position, direction, solving
     r, c = mouse_position
